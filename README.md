@@ -23,8 +23,7 @@ Run in Raspberry Pi terminal:
 5. Don't forget to change the path of the instalation dir, if you choose other location then the example above.
   
 6. Run this software on Raspberry Pi startup:
-> mv /home/pi/barcode-terminal/magicbrain-init-scan.sh /etc/init.d/
-> sudo update-rc.d magicbrain-init-scan.sh defaults
+> mv /home/pi/barcode-terminal/magicbrain-init-scan.sh /etc/init.d/ && sudo update-rc.d magicbrain-init-scan.sh defaults
 
 7. Again, don't forget to change the path of the instalation dir, if you choose other location then the example above, located inside magicbrain-init-scan.sh file.
   
