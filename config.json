@@ -1,0 +1,4 @@
+// Raspberry Pi BarCode/QRCode Terminal Config File
+// Endpoint URL Interface for terminal i.e.: http://interface.mydomain.com/terminal/readout/
+// Terminal Unique Key SHA-256 i.e.: a3210b9037df670fb9e8e1e3fe34a3695c1f665b3682f3716137
+{"readout": [{"apiEndPoint": "EndPointUrlInterface", "requireAuth": true, "terminalkey": "TerminalUniqueKey"}]}
