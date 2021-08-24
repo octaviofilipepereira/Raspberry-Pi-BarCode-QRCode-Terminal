@@ -17,7 +17,7 @@ Run in Raspberry Pi terminal:
 
 3. I sugest in PI user home dir. i.e.: /home/pi/barcode-terminal/
 
-4. Test the software running after making this script executable (i.e.: chmod +x /home/pi/barcode-terminal/magicbrain-init-scan.sh):
+4. Test the software, after making this script executable (i.e.: chmod +x /home/pi/barcode-terminal/magicbrain-init-scan.sh):
   > bash /home/pi/barcode-terminal/magicbrain-init-scan.sh
   
 5. Don't forget to change the path of the instalation dir, if you choose other location then the example above.
