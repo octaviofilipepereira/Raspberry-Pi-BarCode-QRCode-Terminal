@@ -11,7 +11,7 @@
 ####
 #
 # Last Modification: 24-08-2021
-# Author: Octávio Filipe Gonçalves | Salustiano Silva
+# Author: Octávio Filipe Gonçalves
 # Copyright: MagicBrain, Lda, OFPG, Lda
 # Email: magicbrain at magicbrain.pt
 #
