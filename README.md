@@ -26,4 +26,12 @@ Run in Raspberry Pi terminal:
 > mv /home/pi/barcode-terminal/magicbrain-init-scan.sh /etc/init.d/ && sudo update-rc.d magicbrain-init-scan.sh defaults
 
 7. Again, don't forget to change the path of the instalation dir, if you choose other location then the example above, located inside magicbrain-init-scan.sh file.
+
+8. This software will might work with any BarCode or QR Code reader, attached to your Raspberry PI. Please note, that i only fully tested this software with one type of BarCode/QR Code reader, like i mentioned above. 
+
+That's it.
+
+Please feel free to give me feedback on your experience with other Barcode or QR Code reader hardware.
+
+Happy BarCode or QR Code reading.
   
